@@ -1,0 +1,2 @@
+new Accept();
+new CookieChecker()
